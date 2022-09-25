@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Mr. Chhotos, daddy loves you a lot
+          Edit <code>src/App.js</code> I was changed to feature branch
         </p>
         <a
           className="App-link"
